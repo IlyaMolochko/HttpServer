@@ -1,0 +1,6 @@
+cifar
+cifar-server
+testapp
+*.d
+*.o
+*.zip
